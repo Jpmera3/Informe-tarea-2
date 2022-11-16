@@ -10,6 +10,21 @@ CARRERA: ING. EN ELECTRÓNICA Y AUTOMATIZACIÓN
 
 DOCENTE: ING. DARWIN ALULEMA
 
+
+OBJETIVO GENERAL
+
+Comprender los conceptos básicos sobre la ley de ohm tanto en la relación de voltaje, corriente y resistencia y como también sobre la potencia para la resolución de ejercicios del texto guía.
+
+OBJETIVOS ESPECIFICOS
+
+*Entender y analizar de una mejor manera la ley de ohm y sus respectivas deducciones.
+
+*Mediante la teoría aprendida del texto guía realizar los mapas conceptuales sobre la ley de ohm y potencia.
+
+*Realizar los ejercicios del texto guía utilizando las formulas aprendidas de la ley de Ohm.
+
+MARCO TEORICO
+
 ![image](https://user-images.githubusercontent.com/104911658/202272158-302c4067-7559-400f-b6a9-406bcb61c720.png)
 
 ![image](https://user-images.githubusercontent.com/104911658/202274605-471bb375-8f91-4857-a8c0-68f9a5baf1e6.png)
@@ -258,12 +273,12 @@ image
 VÍDEO
 https://www.youtube.com/watch?v=o3XQGDAzV3Y
 
-5.CONCLUSIONES
+CONCLUSIONES
 
 En conclusión, la ley de Ohm nos dice que, en los resistores, la intensidad de la corriente es directamente proporcional al voltaje aplicado a sus terminales e inversamente proporcional a la resistencia.
 
 También al realizar los ejercicios se pudo determinar que se puede controlar la intensidad de corriente que circula en el circuito, aumentando o disminuyendo la resistencia.
 
-6.BIBLIOGRAFÍA
+BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos (Ed. 8va). Educación Pearson.
