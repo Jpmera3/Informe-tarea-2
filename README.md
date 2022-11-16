@@ -256,7 +256,7 @@ image
 ![image](https://user-images.githubusercontent.com/104911658/202282896-20131d9e-4a41-4c65-b74f-71f536fba683.png)
 
 VÍDEO
-https://youtu.be/35msHRN7ibU
+https://www.youtube.com/watch?v=o3XQGDAzV3Y
 
 5.CONCLUSIONES
 
